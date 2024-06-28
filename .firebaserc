@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "nutriconti-429d5",
+    "develop": "nutriconti-429d5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
